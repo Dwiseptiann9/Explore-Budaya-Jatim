@@ -529,7 +529,7 @@ img {
 
   .about_data,
   .about_data .section__title {
-    text-align: initial;
+    text-align:justify;
   }
 
   .Explore_container {
@@ -624,6 +624,6 @@ img {
 
   .About_data,
   .About_data .section__title{
-    text-align: initial;
+    text-align: justify;
   }
 }
