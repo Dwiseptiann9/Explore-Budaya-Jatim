@@ -47,9 +47,9 @@ const sr = ScrollReveal ({
     origin: 'top',
     distance: '60px',
     duration: 3000,
-    delay: 150,
+    delay: 400,
 })
 
 sr.reveal('.home_data, .About_data')
-sr.reveal('.home_card', {delay: 400, distance:'100px', interval: 100})
+sr.reveal('.home_card', {delay: 400, distance:'100px', interval: 200})
 sr.reveal('.Explore_card', {interval: 200})
