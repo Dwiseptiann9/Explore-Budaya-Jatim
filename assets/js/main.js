@@ -46,10 +46,10 @@ window.addEventListener('scroll', scrollUp)
 const sr = ScrollReveal ({
     origin: 'top',
     distance: '60px',
-    duration: 3000,
-    delay: 400,
+    duration: 2500,
+    delay: 200,
 })
 
 sr.reveal('.home_data, .About_data')
-sr.reveal('.home_card', {delay: 400, distance:'100px', interval: 200})
-sr.reveal('.Explore_card', {interval: 200})
+sr.reveal('.home_card', {delay: 200, distance:'100px', interval: 300})
+sr.reveal('.Explore_card', {interval: 300})
